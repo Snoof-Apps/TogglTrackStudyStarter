@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Snoof Toggl Track Starter</string>
+    <string name="toggl_widget_desc">"Starts and stops stopwatch of TogglTrack."</string>
 </resources>
